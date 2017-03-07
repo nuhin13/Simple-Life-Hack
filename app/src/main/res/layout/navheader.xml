@@ -1,0 +1,14 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="222dp"
+    android:background="@color/black_trans80"
+    android:orientation="vertical"
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView1"
+        android:background="@drawable/co1"
+        android:layout_gravity="fill" />
+</LinearLayout>

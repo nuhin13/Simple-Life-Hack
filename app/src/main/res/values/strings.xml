@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Life Hack</string>
+    <string name="action_recycler_view">RecyclerView</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">SIMPLE LIFE HACK</string>
+    <string name="backdrop_subtitle">Tricks, Shortcuts, Skills, or Novelty methods</string>
+    <string name="try_again">Colse</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9971154848057782/7798008954</string>
+    <string name="interstatial_ad_unit_id">ca-app-pub-9971154848057782/1751475350</string>
+    <string name="rate_this_app_link">https://play.google.com/store/apps/details?id=com.nuhin13.com.SimpleLifeHack</string>
+</resources>
