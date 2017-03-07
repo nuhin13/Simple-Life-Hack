@@ -6,7 +6,6 @@
 
     Simple Life Hacks is a daily updated life tips to brighten your day! All is free! 
 
-
     Download this app....
     Be Simple and Think Simple 
     Link : https://play.google.com/store/apps/details?id=com.nuhin13.com.SimpleLifeHack 
