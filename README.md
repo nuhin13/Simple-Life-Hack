@@ -8,4 +8,4 @@
 
     Download this app....
     Be Simple and Think Simple 
-    Link : https://play.google.com/store/apps/details?id=com.nuhin13.com.SimpleLifeHack 
+    <a href="https://play.google.com/store/apps/details?id=com.nuhin13.com.SimpleLifeHack">Download This App</a>
