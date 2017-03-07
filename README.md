@@ -9,4 +9,5 @@
     Download this app....
     Be Simple and Think Simple 
 ![alt tag] (https://github.com/nuhin13/Simple-Life-Hack/blob/master/app/src/main/res/drawable/lifehac.png)
-[a link] (https://play.google.com/store/apps/details?id=com.nuhin13.com.SimpleLifeHack)
+
+[Download Link] (https://play.google.com/store/apps/details?id=com.nuhin13.com.SimpleLifeHack)
